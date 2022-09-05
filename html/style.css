@@ -1,0 +1,12 @@
+table {
+    color: blue;
+}
+[href="https://www.youtube.com/watch?v=MfmoIHY7Z-k"] {
+    color: darkorchid;
+}
+.table-green {
+    color: green;
+}
+.table-bold {
+    font-weight: bold;
+}
